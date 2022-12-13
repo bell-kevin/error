@@ -1,7 +1,7 @@
 # error
 
 
-![p](https://github.com/bell-kevin/error/blob/main/error.PNG)
+![p](https://github.com/bell-kevin/error/blob/main/display.PNG)
 
 
 == We're Using GitHub Under Protest ==
