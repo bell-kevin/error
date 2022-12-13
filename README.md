@@ -1,5 +1,6 @@
 # error
 
+Display Error
 
 ![p](https://github.com/bell-kevin/error/blob/main/display.PNG)
 
