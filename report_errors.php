@@ -1,22 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <title>Reporting Errors</title>
+	<meta charset="utf-8">
+	<title>Reporting Errors</title>
 </head>
-
 <body>
-    <h2>Kevin Bell - Testing Error Reporting</h2>
-    <?php
-    //show Errors
-    ini_set('display_errors', 1);
-    error_reporting(E_ALL);
-    //create a function
-    foreach ($var as $v) {
-    }
-    $result = 1 / 0;
-    ?>
-</body>
+<h2>Testing Error Reporting - Kevin Bell</h2>
+<?php # Script 8.2 - report_errors.php
 
+// Show errors:
+ini_set('display_errors', 1);
+
+// Adjust error reporting:
+error_reporting(E_ALL);
+
+// Create errors:
+foreach ($var as $v) {}
+$result = 1/0;
+
+?>
+</body>
 </html>
