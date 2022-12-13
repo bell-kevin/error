@@ -1,8 +1,12 @@
 # error
 
-Display Error
+Display Errors
 
 ![p](https://github.com/bell-kevin/error/blob/main/display.PNG)
+
+Report Errors
+
+![p](https://github.com/bell-kevin/error/blob/main/report_errors.PNG)
 
 
 == We're Using GitHub Under Protest ==
